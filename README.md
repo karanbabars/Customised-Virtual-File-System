@@ -14,7 +14,7 @@ Intel 32 bit processor
 
 Command User Interface
 
-**SDK used **
+**SDK used**
 
 None
 
